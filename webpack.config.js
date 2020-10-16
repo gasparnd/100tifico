@@ -19,6 +19,9 @@ module.exports = {
             }
         }]
     },
+    devServer: {
+        open: true
+    },
     plugins: [
         new HtmlWebPackPlugin([
             {
