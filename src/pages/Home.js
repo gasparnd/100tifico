@@ -11,7 +11,7 @@ const Home = () => {
 		</div>
 
 	`
-	return view
+	return view.value()
 }
 
 
