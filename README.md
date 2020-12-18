@@ -1,6 +1,6 @@
 # 100tifico
 
-100tifico is a JavaScript Vanilla Application shows Rick & Morty Characters Information
+100tifico is a JavaScript Vanilla Application shows Rick & Morty Characters Information. See the [DEMO](https://gasparnd.github.io/100tifico/ "DEMO")
 ## Installation
 1. Clone this Repo 
 
